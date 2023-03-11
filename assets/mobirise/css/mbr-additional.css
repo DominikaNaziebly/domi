@@ -1088,6 +1088,22 @@ a {
 .cid-t6XN1Qcngm .mbr-description {
   color: #000000;
 }
+.cid-tycKSBpZBT {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tycKSBpZBT .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tycKSBpZBT .row {
+  flex-direction: row-reverse;
+}
+.cid-tycKSBpZBT img {
+  width: 100%;
+}
 .cid-toTCjM9T8H {
   padding-top: 0rem;
   padding-bottom: 0rem;
